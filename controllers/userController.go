@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"cafe/models"
+	"go-cafe/models"
 
 	"github.com/labstack/echo/v4"
 	"gorm.io/gorm"

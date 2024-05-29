@@ -1,9 +1,9 @@
 package controllers
 
 import (
-	"cafe/config"
-	"cafe/constants"
-	"cafe/models"
+	"go-cafe/config"
+	"go-cafe/constants"
+	"go-cafe/models"
 	"net/http"
 	"time"
 

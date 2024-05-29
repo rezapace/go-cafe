@@ -2,7 +2,7 @@ package middleware
 
 // Import library yang dibutuhkan
 import (
-	"cafe/constants"
+	"go-cafe/constants"
 	"time"
 
 	"github.com/golang-jwt/jwt"

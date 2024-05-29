@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	"cafe/models"
 	"fmt"
+	"go-cafe/models"
 	"net/http"
 	"strconv"
 

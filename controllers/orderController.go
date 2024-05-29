@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"cafe/models"
+	"go-cafe/models"
 	"net/http"
 	"strconv"
 

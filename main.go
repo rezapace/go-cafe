@@ -1,8 +1,8 @@
 package main
 
 import (
-	"cafe/config"
-	"cafe/routes"
+	"go-cafe/config"
+	"go-cafe/routes"
 
 	"github.com/labstack/echo/v4"
 	"github.com/labstack/echo/v4/middleware"
